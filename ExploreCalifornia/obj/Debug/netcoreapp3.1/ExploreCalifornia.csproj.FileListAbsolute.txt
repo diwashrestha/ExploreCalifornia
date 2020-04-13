@@ -11,6 +11,11 @@ F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\ExploreC
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\ExploreCalifornia.Views.pdb
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -22,6 +27,7 @@ F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsof
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -31,6 +37,8 @@ F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsof
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
@@ -127,6 +135,8 @@ F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreC
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.TagHelpers.input.cache
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.TagHelpers.output.cache
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.RazorCoreGenerate.cache
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Post.cshtml.g.cs
@@ -134,6 +144,7 @@ F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Vi
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\MonthlySpecials\Default.cshtml.g.cs
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Post.cshtml.g.cs
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.RazorTargetAssemblyInfo.cache
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.RazorTargetAssemblyInfo.cs
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.Views.pdb
@@ -143,5 +154,3 @@ F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\staticwe
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.pdb
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.genruntimeconfig.cache
-F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.csprojAssemblyReference.cache
-F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs

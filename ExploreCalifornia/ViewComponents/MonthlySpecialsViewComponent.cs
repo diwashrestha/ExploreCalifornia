@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
 using ExploreCalifornia.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ExploreCalifornia.ViewComponents
 {
@@ -16,10 +16,12 @@ namespace ExploreCalifornia.ViewComponents
         {
             this.db = db;
         }
+
         public IViewComponentResult Invoke()
         {
             var specials = db.MonthlySpecials.ToArray();
             return View(specials);
         }
+
     }
 }
