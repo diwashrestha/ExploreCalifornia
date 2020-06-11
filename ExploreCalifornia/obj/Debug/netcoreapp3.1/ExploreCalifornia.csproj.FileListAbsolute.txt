@@ -154,3 +154,4 @@ F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\staticwe
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.dll
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.pdb
 F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.genruntimeconfig.cache
+F:\PROJECTS\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp3.1\ExploreCalifornia.csprojAssemblyReference.cache
